@@ -1,4 +1,4 @@
-![Bankole Olalekan](https://raw.githubusercontent.com/AfrazCodes/AfrazCodes/main/mclakes.jpg)
+![Bankole Olalekan](https://raw.githubusercontent.com/Mclakes/Mclakes/main/mclakes.jpg)
 
 ### Hi, I'm Bankole Olalekan 👋
 
@@ -15,7 +15,7 @@ Proficiency in HTML, CSS, Bootstrap, Javascript, jQuery, Node.js, Express.js, AP
 - 💬 Ask me about projects i have built and i will put you through every stwp on what i have done so far
 - 📫 How to reach me: 
     (mailto:lekanhayo@gmail.com)
-    [twitter]: (@Ancestor_lee)
+    [twitter]: (https://twitter.com/Ancestor_lee)
     [linkedIn]: (https://www.linkedin.com/in/bankole-olalekan-b4585b16b/)
 - ⚡ Fun fact: I would love to work to meet you in person
 <!-- - 😄 Pronouns: ... -->
