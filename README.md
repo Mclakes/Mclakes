@@ -1,4 +1,4 @@
-![Bankole Olalekan](https://raw.githubusercontent.com/Mclakes/Mclakes/main/mclakes.jpg)
+![Bankole Olalekan](https://raw.githubusercontent.com/Mclakes/Mclakes/main/ancestor.jpg)
 
 ### Hi, I'm Bankole Olalekan 👋
 
