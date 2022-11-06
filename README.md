@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[ A realtor App](https://mclakes.github.io/realtyPro/)**
+- 🔭 I’m currently working on **[ A realtor App](https://mclakes.github.io/realtyPro//)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms and also React-Native**
 
