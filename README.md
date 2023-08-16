@@ -8,15 +8,15 @@
 
 - 🔭 I’m currently working on Becoming **[ A Software Engineer](https://mclakes.github.io/personal-portfolio)** with ALX and DevCareer
 
-- 🌱 I’m currently learning **[C programming Language]**
+- 🌱 I’m currently learning **C programming Language**
 
-- 👯 I’m looking to collaborate on **[OpenSource Projects]**
+- 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://mclakes.github.io/personal-portfolio)**
 
 - 📫 How to reach me **[Lekanhayo@gmail.com](mailto:lekanhayo@gmail.com)**
 
-- ⚡ Fun fact **[I play games, enjoy reading and Travelling.]**
+- ⚡ Fun fact **I play games, enjoy reading and Travelling.**
 
 ## 🚀 Languages and Tools:
 
