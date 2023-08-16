@@ -8,15 +8,15 @@
 
 - 🔭 I’m currently working on Becoming **[ A Software Engineer](https://mclakes.github.io/personal-portfolio)** with ALX and DevCareer
 
-- 🌱 I’m currently learning **C programming Language**
+- 🌱 I’m currently learning **[C programming Language]**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on **[OpenSource Projects]**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://mclakes.github.io/personal-portfolio)**
 
 - 📫 How to reach me **[Lekanhayo@gmail.com](mailto:lekanhayo@gmail.com)**
 
-- ⚡ Fun fact **I play games, enjoy reading and Travelling.**
+- ⚡ Fun fact **[I play games, enjoy reading and Travelling.]**
 
 ## 🚀 Languages and Tools:
 
@@ -55,8 +55,8 @@
   <br/>
     <a href="https://github.com/Mclakes/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mclakes&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Mclakes/github-readme-stats"><img alt="Olalekan Bankole's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mclakes&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <!-- <br/> -->
-  <!-- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
+  <br/> 
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
 <br/>
